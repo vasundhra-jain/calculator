@@ -1,0 +1,41 @@
+.cal-outer-background {
+    background-color: black;
+}
+
+.cal-background {
+    background-color: #e08504;
+    height: 93vh;
+    padding: 6px;
+}
+
+.cal-result {
+    background-color: black;
+    height: 24vh;
+    color: #ffffff;
+    text-align: right;
+    font-size: 50px;
+}
+
+.cal-buttons {
+    background-color: #e8b368;
+    height: 13vh;
+    border-width: 0.5px;
+    border-style: solid;
+    font-size: 45px;
+}
+
+.operators {
+    background-color: #f28238;
+}
+
+.equal {
+    background-color: #e39d3b;
+}
+
+.backspace-button {
+    background-color: #f28238;
+    height: 13vh;
+    border-width: 0.5px;
+    border-style: solid;
+    font-size: 45px;
+}
